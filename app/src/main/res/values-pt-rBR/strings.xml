@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeDoaAe</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Lembre de mim</string>
+    <string name="login">Login</string>
+    <string name="text1">A ONG Instituto Materno Infantil Professor Fernando Figueira é uma organização social que fica em Recife, PE. Entre as atividades da ONG temos:
+            Atendimento Hospitalar e de Emergência
+            Educação Preventiva para Saúde
+            Pesquisa Médica
+            Veja abaixo os dados da ONG, e como ajudá-la.
+ </string>
+    <string name="msgError">Usuário incorreto</string>
+    <string name="welcome">Bem vindo</string>
+    <string name="seemore">Veja mais</string>
+    <string name="text2">A ONG Academia Para O Desenvolvimento Da Educação Brasil é uma organização social que fica em Recife, PE. Entre as atividades da ONG temos:
+Capacitação para o Trabalho
+Defesa dos Direitos Socioassistenciais
+Mobilização e Articulação pela Educação
+Veja abaixo os dados da ONG, e como ajudá-la.</string>
+    <string name="donate">COMO DOAR</string>
+    <string name="donate2">Muitas instituições dispõem em seu site informações sobre doações em dinheiro, informando o banco, agência e conta para depósito. Caso a instituição não tenha site, ou informações bancárias não estejam disponíveis no site da instituição, entre em contato com a instituição, pelo email silvia.vidon@imip.org.br ou pelo telefone 81-21224144 e verifique como fazer doações em dinheiro. Você poderá fazer uma doação única, ou se transformar em um doador constante, doando mensalmente, por exemplo.</string>
+</resources>
