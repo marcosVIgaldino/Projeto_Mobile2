@@ -16,10 +16,10 @@ class MainActivity : AppCompatActivity() {
         val idNome = binding.edUsuario
         val btLogin = binding.btLogin
         val idSenha = binding.edSenha
-        val arrayuser = arrayOf("Marcos", "João", "Pedro")
+
 
         btLogin.setOnClickListener {
-                if(idNome.text.toString() == arrayuser.toString() && idSenha.text.toString().toIntOrNull() == 157) {
+                if(idNome.text.toString() == "Marcos" && idSenha.text.toString().toIntOrNull() == 384) {
                     val intent = Intent(this, Tela2Activity::class.java)
                     val texto = idNome.text.toString()
                     intent.putExtra("nome", texto)

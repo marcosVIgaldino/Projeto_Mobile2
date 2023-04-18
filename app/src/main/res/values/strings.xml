@@ -1,23 +1,15 @@
 <resources>
-    <string name="app_name">MeDoaAe</string>
-    <string name="name">Name</string>
-    <string name="password">Password</string>
-    <string name="remember">Remember</string>
-    <string name="login">Login</string>
-    <string name="text1">The NGO Instituto Materno Infantil Professor Fernando Figueira is a social organization located in Recife, PE. Among the activities of the NGO we have:
-Hospital and Emergency Care
-            Preventive Education for Health
-            Medical Research
-            See below for the NGO's data, and how to help it.
- </string>
+    <string name="app_name"> MeDoaAe </string>
+    <string name="name"> Name </string>
+    <string name="password">Password </string>
+    <string name="remember">Remember </string>
+    <string name="login">Login </string>
+    <string name="text1">The NGO Instituto Materno Infantil Professor Fernando Figueira is a social organization located in Recife, PE. Among the activities of the NGO we have
+Hospital and Emergency Care Preventive Education for Health Medical Research See below for the NGOs data, and how to help it. </string>
     <string name="msgError">User error</string>
     <string name="welcome">Welcome</string>
     <string name="seemore">See more</string>
-    <string name="text2">The NGO Academia Para O Desenvolvimento Da Educação Brasil is a social organization located in Recife, PE. Among the activities of the NGO we have:
-    Training for Work
-    Defense of Social Welfare Rights
-    Mobilization and Articulation for Education
-    See below for the NGO's data, and how to help it.</string>
+    <string name="text2">The NGO Academia Para O Desenvolvimento Da Educação Brasil is a social organization located in Recife, PE. Among the activities of the NGO we have:Training for Work Defense of Social Welfare Rights Mobilization and Articulation for Education See below for the NGO s data, and how to help it.</string>
     <string name="donate">HOW TO DONATE</string>
-    <string name="donate2">Many institutions have information on cash donations on their website, informing the bank, agency and deposit account. If the institution does not have a website, or bank information is not available on the institution's website, contact the institution by email silvia.vidon@imip.org.br or by phone 81-21224144 and check how to make cash donations. You can make a one-time donation, or become a regular donor, by donating monthly, for example.</string>
+    <string name="donate2">Many institutions have information on cash donations on their website, informing the bank, agency and deposit account. If the institution does not have a website, or bank information is not available on the institutions website, contact the institution by email silvia.vidon@imip.org.br or by phone 8121224144 and check how to make cash donations. You can make a one-time donation, or become a regular donor, by donating monthly, for example.</string>
 </resources>
