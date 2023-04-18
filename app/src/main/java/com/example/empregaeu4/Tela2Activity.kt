@@ -15,7 +15,12 @@ class Tela2Activity : AppCompatActivity() {
         setContentView(binding.root)
 
         val btnext = binding.bttnext
+        val btnext2 = binding.button2
         btnext.setOnClickListener{
+            val intent = Intent(this, NextpageActivity::class.java)
+            startActivity(intent)
+        }
+        btnext2.setOnClickListener{
             val intent = Intent(this, NextpageActivity::class.java)
             startActivity(intent)
         }
