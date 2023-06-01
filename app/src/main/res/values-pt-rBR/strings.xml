@@ -21,4 +21,9 @@ Mobilização e Articulação pela Educação
 Veja abaixo os dados da ONG, e como ajudá-la.</string>
     <string name="donate">COMO DOAR</string>
     <string name="donate2">Muitas instituições dispõem em seu site informações sobre doações em dinheiro, informando o banco, agência e conta para depósito. Caso a instituição não tenha site, ou informações bancárias não estejam disponíveis no site da instituição, entre em contato com a instituição, pelo email silvia.vidon@imip.org.br ou pelo telefone 81-21224144 e verifique como fazer doações em dinheiro. Você poderá fazer uma doação única, ou se transformar em um doador constante, doando mensalmente, por exemplo.</string>
+    <string name="adminpage">Admin ONG Registrar</string>
+    <string name="NGOname">ONG</string>
+    <string name="description">Descrição</string>
+    <string name="howto">Como doar</string>
+    <string name="addbtt">ADD</string>
 </resources>

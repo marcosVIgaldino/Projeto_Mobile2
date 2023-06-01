@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btadd"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="68dp"
+        android:layout_marginBottom="28dp"
+        android:text="@string/adminpage"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/edngo"
+        app:layout_constraintStart_toStartOf="@+id/edngo" />
+
+    <EditText
+        android:id="@+id/edngo"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:ems="10"
+        android:hint="@string/NGOname"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/eddesc"
+        app:layout_constraintEnd_toEndOf="@+id/eddesc"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/eddesc" />
+
+    <EditText
+        android:id="@+id/eddesc"
+        android:layout_width="403dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="4dp"
+        android:ems="10"
+        android:hint="@string/description"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="223dp" />
+
+    <EditText
+        android:id="@+id/edhow"
+        android:layout_width="404dp"
+        android:layout_height="67dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/howto"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/eddesc"
+        app:layout_constraintStart_toStartOf="@+id/eddesc"
+        app:layout_constraintTop_toBottomOf="@+id/eddesc" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="141dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/addbtt"
+        app:layout_constraintTop_toBottomOf="@+id/edhow"
+        tools:layout_editor_absoluteX="128dp" />
+
+    <Button
+        android:id="@+id/buttonlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ong list"
+        app:layout_constraintEnd_toEndOf="@+id/button"
+        app:layout_constraintStart_toStartOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+</androidx.constraintlayout.widget.ConstraintLayout>

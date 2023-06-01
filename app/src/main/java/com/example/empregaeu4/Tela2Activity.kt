@@ -16,13 +16,19 @@ class Tela2Activity : AppCompatActivity() {
 
         val btnext = binding.bttnext
         val btnext2 = binding.button2
+        val btnext3 = binding.button3
+
         btnext.setOnClickListener{
-            val intent = Intent(this, NextpageActivity::class.java)
-            startActivity(intent)
+            val intenn = Intent(this, NextpageActivity::class.java)
+            startActivity(intenn)
         }
         btnext2.setOnClickListener{
             val intent = Intent(this, NextpageActivity::class.java)
             startActivity(intent)
+        }
+        btnext3.setOnClickListener{
+            val inten = Intent(this, MainActivity2::class.java)
+            startActivity(inten)
         }
     }
 }
